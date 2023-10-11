@@ -2,7 +2,11 @@
 
 ### Introduction
 
-An amazon website created with next.js + material ui for styling + firebase for backend and authentication, allows clients to sign up and login to view dashboard content, interacting with it, moving between pages, view categories and its items for purchasing. 
+A Simple web dashboard created with next js, material ui for styling and firebase for backend and authentication. 
+it allows clients to view dashboard content, view categories and their items for purchasing.
+
+### The next step
+I implemented signup and signIn pages with firebase auth, but it needs to complete handling routing to authenticated pages.
 
 ### Tech Stack
 - Html
